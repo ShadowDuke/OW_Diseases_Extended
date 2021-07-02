@@ -24,6 +24,9 @@
 - In the base game in certain circumstences SEVERELY_ILL cant happen when ILL is currently "active"
    - There is no change in the mod, so your characters are not infested with more than one, max. 2 diseases at once ;)
 
+- Added and/or adjusted 3 gain and loss events for all diseases
+   - Adding also info about each disease, like symptoms (in most cases its only one of three eventoptions, the other 2 are more generic like in the base game for "ill")
+
 - SEVERELY_ILL is still in the game but heavily reduced (for stories) and those stories with the trait have been reworked with the new diseases as well
 <br><br><br><br>
 - More harmless illnesses (like, fever, diarrhea, nausea, etc.) could be added, too to add more varietly on more harmless "diseases" or illnesses in this case
