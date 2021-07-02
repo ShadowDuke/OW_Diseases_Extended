@@ -31,5 +31,5 @@
 <br><br><br><br>
 - More harmless illnesses (like, fever, diarrhea, nausea, etc.) could be added, too to add more varietly on more harmless "diseases" or illnesses in this case
 <br><br><br>
-Aamong others; here is a [sourc](https://science.howstuffworks.com/life/cellular-microscopic/10-oldest-known-diseases.htm) explaining those diseases ware already "discovered" >BCE (before AD) or soon after AD
+Aamong others; here is a [source](https://science.howstuffworks.com/life/cellular-microscopic/10-oldest-known-diseases.htm) explaining those diseases ware already "discovered" >BCE (before AD) or soon after AD
 
