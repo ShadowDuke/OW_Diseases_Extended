@@ -1,0 +1,73 @@
+<!-- Diseases Extended (© Revan© ) -->
+
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOUSEHOLD_TROUBLES</zType>
+		<English>Your {G0:husband:wife} {CHARACTER-0} expresses {G0:his:her} concern one morning; many of {G0:his:her} servants and staff are ill, and a pregnant serving girl has miscarried. You are expressing concern when {G0:he:she} falls to the floor, shaking and feverish. {G0:His:Her} recently hired head of staff helps you to look after {G0:him:her} until help arrives. 
+
+Later {CHARACTER-SHORT-0} tells you that {G0:he:she} believes the drinking water from the palace well is at fault. {G0:He:She} asks that you promote {G0:his:her} head of staff {CHARACTER-2} to a prominent position to help look into the matter.</English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_LONG_NIGHT</zType>
+		<English>You experience a slumber unlike any other - riven by screams and nightmares - but by morning you feel free of torment. You have survived poisoning at the hands of {CHARACTER-SHORT-0} and {G0:his:her} minion.
+
+What shall you have us do in retribution?</English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTSTORY_POOR_SOULS</zType>
+		<English>As {CHARACTER-SHORT-0}'s condition worsens, {G0:his:her} doctor {CHARACTER-SHORT-1} begins to exhibit the same symptoms. Whispers of curses and plagues fill the palace.
+
+Nothing seems to be helping these poor souls.</English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_SECOND_OPINION</zType>
+		<English>{CHARACTER-SHORT-0}'s sickness keeps {G0:him:her} confined to bed for days on end, and {G0:his:her} condition does not appear to be improving.
+
+Some of your intimates in court suggest that you seek the opinion of great scientist {CHARACTER-SHORT-1}.</English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_RETURN_HOME_WINE</zType>
+		<English>You suddenly feel very weak. Summon the doctors - perhaps there was posion in that wine!</English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_ROYAL_TRAGEDIES</zType>
+		<English>It has been a trying time in the royal household. Your {G1:son:daughter} {CHARACTER-SHORT-1} was struck by a falling stone and killed instantly. At the palace, your {G2:husband:wife}, {CHARACTER-SHORT-2}, has fallen ill with a mysterious ailment, and healers make no promises of recovery.
+
+Where will you turn for aid in this tragic moment?</English>
+	</Entry>
+	
+	
+	
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_ONE_WRONG_MOVE</zType>
+		<English>As you and {CHARACTER-SHORT-1} work to balance your delicate humors, the knife slips, and you nick a vital organ. Blood pools quickly on the floor and, despite {G1:his:her} best efforts, {CHARACTER-SHORT-1} is unable to staunch the flow.
+
+The last thing you see as your essence empties from your body is the blue of a summer's day through the open window.</English>
+	</Entry>
+	
+	
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_JOKES_ON_YOU</zType>
+		<English>You should have known better than to trust a fool.
+
+{CHARACTER-SHORT-1}'s clumsy attempts to alleviate your illness lead only to more suffering. Your death is long and painful, and it takes the servants several days afterwards to clean up the mess. </English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CURED_BY_THE_PAW</zType>
+		<English>You feel sicker than you ever have in your life. Various wise people, healers, and priests have come and gone, leaving you no better. They all claim you will recover soon, but looking in their eyes you can see that they don’t really believe that. 
+
+Perhaps it is time for more unconventional methods... perhaps that old monkey’s paw which is supposed to grant wishes could save you?</English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CURED_BY_THE_PAW_IMPROVED</zType>
+		<English>You suddenly feel... better. As if you have improved in some way, but you still feel as sick as ever.</English>
+	</Entry>
+	
+</Root>

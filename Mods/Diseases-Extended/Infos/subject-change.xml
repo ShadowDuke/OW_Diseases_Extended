@@ -1,0 +1,15 @@
+<!-- Diseases Extended (© Revan© ) -->
+
+<Root>
+	<Entry>
+		<zType>SUBJECT_HEALTHY</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+		<zValue>TRAIT_MALARIA</zValue>
+		<zValue>TRAIT_BUBONIC_PLAGUE</zValue>
+		<zValue>TRAIT_LEPROSY</zValue>
+		<zValue>TRAIT_RABIES</zValue>
+		<zValue>TRAIT_SEVERELY_ILL</zValue>
+		</aeTraitNone>
+	</Entry>
+</Root>

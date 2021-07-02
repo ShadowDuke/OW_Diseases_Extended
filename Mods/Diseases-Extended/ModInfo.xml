@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <displayName>Diseases Extended</displayName>
+  <description>Adds 10 diseases into the game</description>
+  <modpicture>Diseases.png</modpicture>
+  <author>Revan/ShadowDuke</author>
+  <modioID>1025860</modioID>
+  <modioFileID>0</modioFileID>
+  <modversion>beta1</modversion>
+  <homepage />
+  <singlePlayer>true</singlePlayer>
+  <multiplayer>true</multiplayer>
+  <modDependencies />
+  <modIncompatibilities />
+</ModInfo>

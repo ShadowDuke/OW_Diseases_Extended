@@ -1,0 +1,75 @@
+<!-- Diseases Extended (© Revan© ) -->
+
+<Root>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HOUSEHOLD_TROUBLES_0</zType>
+		<English>As a minister {G2:he:she} will have access to all of the city records.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HOUSEHOLD_TROUBLES_1</zType>
+		<English>As a merchant {G2:he:she} will be empowered to trade for medicine and clean water. </English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_HOUSEHOLD_TROUBLES_2</zType>
+		<English>Refuse {CHARACTER-SHORT-0} and have {G0:him:her} focus on resting.</English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTOPTION_THE_LONG_NIGHT_OPTION_0</zType>
+		<English>Banish the {G0:boy:girl} and {G0:his:her} fool.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_THE_LONG_NIGHT_OPTION_1</zType>
+		<English>Execute them!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_THE_LONG_NIGHT_OPTION_2</zType>
+		<English>{CHARACTER-SHORT-0} may one day be useful.</English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTOPTION_POOR_SOULS_OPTION_0</zType>
+		<English>Make them comforable and pray for a full recovery.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_POOR_SOULS_OPTION_1</zType>
+		<English>Hire healers and doctors from across the nation.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_POOR_SOULS_OPTION_2</zType>
+		<English>Put them out of their misery, may the gods forgive me.</English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRAIT_A_CHILL_IN_THE_PALACE_OPTION_0</zType>
+		<English>{G1:He:She} has fallen victim to {G1:his:her} own treachery.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRAIT_A_CHILL_IN_THE_PALACE_OPTION_1</zType>
+		<English>Provide {G1:him:her} with the best treatment available.</English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTOPTION_A_SECOND_OPINION_OPTION_0</zType>
+		<English>{CHARACTER-SHORT-1} cannot be trusted.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_A_SECOND_OPINION_OPTION_1</zType>
+		<English>I must seek {CHARACTER-SHORT-1}'s counsel.</English>
+	</Entry>
+	
+	<Entry>
+		<zType>TEXT_EVENTOPTION_IN_THE_WATER_OPTION_0</zType>
+		<English>Send royal engineers to {CITY-1} to design a solution.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_IN_THE_WATER_OPTION_1</zType>
+		<English>I refuse to push Governor {CHARACTER-SHORT-0} aside.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_IN_THE_WATER_OPTION_2</zType>
+		<English>We must focus our efforts on healing {CHARACTER-SHORT-0}.</English>
+	</Entry>
+	
+
+</Root>

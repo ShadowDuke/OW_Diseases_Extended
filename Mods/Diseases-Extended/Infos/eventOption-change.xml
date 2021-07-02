@@ -1,0 +1,39 @@
+<!-- Diseases Extended (© Revan© ) -->
+
+<Root>
+	<Entry>
+		<zType>EVENTOPTION_HOSTAGE_NEGOTIATION_OPTION_0</zType>
+		<Text>TEXT_EVENTOPTION_HOSTAGE_NEGOTIATION_OPTION_0</Text>
+		<HelpText>TEXT_EVENTOPTION_HOSTAGE_NEGOTIATION_OPTION_0_HELP</HelpText>
+		<aeBonuses>
+			<zValue>BONUS_GIVE_TRAIT_INFLUENZA</zValue>
+			<zValue>BONUS_GIVE_TRAIT_IMPRISONED</zValue>
+			<zValue>BONUS_GIVE_TRAIT_INCUBATED</zValue>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_HAOMA_3</zType>
+		<Text>TEXT_EVENTOPTION_HAOMA_3</Text>
+		<aeBonuses>
+			<zValue/>
+			<zValue/>
+			<zValue>BONUS_EVENTOPTION_HAOMA_ILL</zValue>
+		</aeBonuses>
+		<LeaderSubjectAny>
+			<zValue>SUBJECT_MALARIA</zValue>
+			<zValue>SUBJECT_SMALLPOX</zValue>
+			<zValue>SUBJECT_BUBONIC_PLAGUE</zValue>
+			<zValue>SUBJECT_TYPHOID</zValue>
+			<zValue>SUBJECT_PNEUMONIA</zValue>
+			<zValue>SUBJECT_TUBERCULOSIS</zValue>
+		</LeaderSubjectAny>
+	</Entry>
+	<Entry>
+		<zType>EVENTOPTION_BIRTH_CHILD_OF_PROPHECY_OPTION_1</zType>
+		<Text>TEXT_EVENTOPTION_BIRTH_CHILD_OF_PROPHECY_OPTION_1</Text>
+		<aeBonuses>
+			<zValue>BONUS_GIVE_TRAIT_PNEUMONIA</zValue>
+			<zValue>BONUS_GIVE_TRAIT_LOYAL</zValue>
+		</aeBonuses>
+	</Entry>
+</Root>

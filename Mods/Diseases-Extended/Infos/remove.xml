@@ -1,0 +1,29 @@
+<!-- Diseases Extended (© Revan© ) -->
+
+<Entry>
+<!--	<zType>SUBJECT_SEVERELY_ILL</zType>					-->
+		<zType>SUBJECT_ILL</zType>
+		<zType>TRAIT_ILL</zType>
+		<zType>TEXT_TRAIT_ILL</zType>	
+<!--	<zType>TEXT_TRAIT_SEVERELY_ILL</zType>	
+		<zType>TRAIT_SEVERELY_ILL</zType>					-->
+		<zType>TEXT_TRAIT_ILL_GAIN_1</zType>
+		<zType>TEXT_TRAIT_ILL_GAIN_2</zType>
+		<zType>TEXT_TRAIT_ILL_GAIN_3</zType>
+		<zType>TEXT_TRAIT_ILL_GAIN_4</zType>
+		<zType>TEXT_TRAIT_ILL_GAIN_5</zType>
+		<zType>TEXT_TRAIT_ILL_LOSS_1</zType>
+		<zType>TEXT_TRAIT_ILL_LOSS_2</zType>
+		<zType>TEXT_TRAIT_ILL_LOSS_3</zType>
+<!--	<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_1</zType>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_2</zType>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_3</zType>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_4</zType>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_5</zType>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_1</zType>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_2</zType>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_3</zType>
+		<zType>BONUS_GIVE_TRAIT_SEVERELY_ILL</zType>		-->
+		<zType>BONUS_GIVE_TRAIT_ILL</zType>
+		
+</Entry>

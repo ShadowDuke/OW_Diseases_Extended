@@ -1,0 +1,54 @@
+<!-- Diseases Extended (© Revan© ) -->
+
+<Root>
+	<Entry>
+		<zType>SUBJECT_MALARIA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_MALARIA</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_SMALLPOX</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_SMALLPOX</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_BUBONIC_PLAGUE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_BUBONIC_PLAGUE</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TYPHOID</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_TYPHOID</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_INFLUENZA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_INFLUENZA</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_LEPROSY</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_LEPROSY</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_RABIES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_RABIES</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PNEUMONIA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_PNEUMONIA</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TUBERCULOSIS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_TUBERCULOSIS</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TRACHOMA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_TRACHOMA</TraitPrereq>
+	</Entry>
+</Root>
