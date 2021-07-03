@@ -1,0 +1,324 @@
+<!-- Diseases Extended (© Revan© ) -->
+
+<Root>
+	<Entry>
+		<zType/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MALARIA</zType>
+		<Translation>Malaria</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SMALLPOX</zType>
+		<Translation>Blattern</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BUBONIC_PLAGUE</zType>
+		<Translation>Beulenpest</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TYPHOID</zType>
+		<Translation>Parentialfieber</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INFLUENZA</zType>
+		<Translation>Grippe</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_LEPROSY</zType>
+		<Translation>Lepra</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RABIES</zType>
+		<Translation>Tollwut</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PNEUMONIA</zType>
+		<Translation>Lungenentzündung</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TUBERCULOSIS</zType>
+		<Translation>Tuberkulose</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TRACHOMA</zType>
+		<Translation>Bindehautentzündung</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MALARIA_GAIN_1</zType>
+		<Translation>{0_character} has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MALARIA_GAIN_2</zType>
+		<Translation>{0_character} is feeling light-headed and feverish. Shivering in pain and vomitting, {0_character} has now {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MALARIA_GAIN_3</zType>
+		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MALARIA_LOSS_1</zType>
+		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MALARIA_LOSS_2</zType>
+		<Translation>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MALARIA_LOSS_3</zType>
+		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SMALLPOX_GAIN_1</zType>
+		<Translation>{0_character} has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SMALLPOX_GAIN_2</zType>
+		<Translation>{0_character} is feeling muscle pain, fatigue and nausea. Lesions starting to appear, {0_character} has now {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SMALLPOX_GAIN_3</zType>
+		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SMALLPOX_LOSS_1</zType>
+		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SMALLPOX_LOSS_2</zType>
+		<Translation>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SMALLPOX_LOSS_3</zType>
+		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_GAIN_1</zType>
+		<Translation>{0_character} has now the {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_GAIN_2</zType>
+		<Translation>{0_character} is feeling feverish, fatigue and nausea. {masculine_0:His:Her} body is forming buboes. {0_character} has now the {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_GAIN_3</zType>
+		<Translation>{0_character} has been feeling quite poor lately, and has now the {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_LOSS_1</zType>
+		<Translation>{0_character} has no longer the {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_LOSS_2</zType>
+		<Translation>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer the {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_LOSS_3</zType>
+		<Translation>{0_character} is thankfully feeling much better now, and has no longer the {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TYPHOID_GAIN_1</zType>
+		<Translation>{0_character} has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TYPHOID_GAIN_2</zType>
+		<Translation>{0_character} is coughing blood, feeling feverish and has fallen into a delirium. {0_character} has now {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TYPHOID_GAIN_3</zType>
+		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TYPHOID_LOSS_1</zType>
+		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TYPHOID_LOSS_2</zType>
+		<Translation>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TYPHOID_LOSS_3</zType>
+		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INFLUENZA_GAIN_1</zType>
+		<Translation>{0_character} has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INFLUENZA_GAIN_2</zType>
+		<Translation>{0_character} is suddenly feeling feverish, has chills, headaches, muscle pain and aching, a feeling of discomfort and loss of appetite. {0_character} has now {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INFLUENZA_GAIN_3</zType>
+		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INFLUENZA_LOSS_1</zType>
+		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INFLUENZA_LOSS_2</zType>
+		<Translation>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INFLUENZA_LOSS_3</zType>
+		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_LEPROSY_GAIN_1</zType>
+		<Translation>{0_character} has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_LEPROSY_GAIN_2</zType>
+		<Translation>{0_character} has lost sensation in fingers and toes. {masculine_0:His:Her} skin developed pale and pink coloured patches that is insensitive to temperature and pain, {0_character} has now {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_LEPROSY_GAIN_3</zType>
+		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_LEPROSY_LOSS_1</zType>
+		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_LEPROSY_LOSS_2</zType>
+		<Translation>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_LEPROSY_LOSS_3</zType>
+		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RABIES_GAIN_1</zType>
+		<Translation>{0_character} has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RABIES_GAIN_2</zType>
+		<Translation>{0_character} has started to feel anxiety and is suffering from insomnia and confusion, hallucinations are the order of the day, {0_character} has now {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RABIES_GAIN_3</zType>
+		<Translation>{0_character} has been bitten by an animal and started to feel poor rather quickly and has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RABIES_LOSS_1</zType>
+		<Translation>{0_character} has misteriously no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RABIES_LOSS_2</zType>
+		<Translation>{0_character} has misteriously recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RABIES_LOSS_3</zType>
+		<Translation>{0_character} is misteriously thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PNEUMONIA_GAIN_1</zType>
+		<Translation>{0_character} has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PNEUMONIA_GAIN_2</zType>
+		<Translation>{0_character} has started to feel shaking chills, has a productive cough and fever and difficulties to breath properly, {0_character} has now {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PNEUMONIA_GAIN_3</zType>
+		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PNEUMONIA_LOSS_1</zType>
+		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PNEUMONIA_LOSS_2</zType>
+		<Translation>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PNEUMONIA_LOSS_3</zType>
+		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TUBERCULOSIS_GAIN_1</zType>
+		<Translation>{0_character} has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TUBERCULOSIS_GAIN_2</zType>
+		<Translation>{0_character} has started to feel symptoms like fever, chills, night sweats, loss of appetite, weight loss and fatigue, {0_character} has now {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TUBERCULOSIS_GAIN_3</zType>
+		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TUBERCULOSIS_LOSS_1</zType>
+		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TUBERCULOSIS_LOSS_2</zType>
+		<Translation>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TUBERCULOSIS_LOSS_3</zType>
+		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TRACHOMA_GAIN_1</zType>
+		<Translation>{0_character} has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TRACHOMA_GAIN_2</zType>
+		<Translation>{0_character} has Swollen eyelids and is getting sensitivity to bright lights, {0_character} has now {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TRACHOMA_GAIN_3</zType>
+		<Translation>{0_character} has been problems with his eyes quite lately, and has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TRACHOMA_LOSS_1</zType>
+		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TRACHOMA_LOSS_2</zType>
+		<Translation>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TRACHOMA_LOSS_3</zType>
+		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+	</Entry>
+<!--<Entry>
+		<zType>TEXT_TRAIT_SEVERELY_ILL</zType>
+		<Translation>Severely Ill</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_1</zType>
+		<Translation>Afflicted by nigh-constant vomiting and diarrhea, {0_character} is {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_2</zType>
+		<Translation>{0_character} is {1_trait}, suffering from a high fever and constant shaking, leaving {masculine_0:him:her} barely able to walk.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_3</zType>
+		<Translation>{1_trait}, coughing up bloody mucus and suffering from sharp pains in {masculine_0:his:her} chest, {0_character} fears {masculine_0:he:she} does not have much time left.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_4</zType>
+		<Translation>Always having been a bit sickly, {0_character} has now become {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_5</zType>
+		<Translation>The health of {0_character} has taken a serious turn for the worse, and {masculine_0:he:she} is now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_1</zType>
+		<Translation>{0_character} is no longer {1_trait}, {masculine_0:he:she} has made an amazing recovery!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_2</zType>
+		<Translation>Although {masculine_0:he:she} was at death's door, {0_character} has miraculously recovered from being {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_3</zType>
+		<Translation>{0_character} is now on the road to recovery, and no longer {1_trait}.</Translation>
+	</Entry>		-->
+</Root>
