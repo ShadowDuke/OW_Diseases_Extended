@@ -28,10 +28,9 @@
    - Adding also info about each disease, like symptoms (in most cases its only one of three eventoptions, the other 2 are more generic like in the base game for "ill")
 
 - SEVERELY_ILL is still in the game but heavily reduced (for stories) and those stories with the trait have been reworked with the new diseases as well
-<br><br><br><br>
-- More harmless illnesses (like, fever, diarrhea, nausea, etc.) could be added, too to add more varietly for more harmless "diseases" or illnesses in this case
 <br><br><br>
+- More harmless illnesses (like, fever, diarrhea, nausea, etc.) could be added, too to add more varietly for more harmless "diseases" or illnesses in this case
 - Compatible with all my mods
-- <br><br>
+<br><br>
 Aamong others; here is a [source](https://science.howstuffworks.com/life/cellular-microscopic/10-oldest-known-diseases.htm) explaining those diseases ware already "discovered" >BCE (before AD) or soon after AD
 
