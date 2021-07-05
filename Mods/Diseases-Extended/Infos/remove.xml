@@ -1,32 +1,39 @@
 <!-- Diseases Extended (© Revan© ) -->
-
+<Root>
 	<Entry>
-		<zIndex>TRAIT_ILL</zIndex>
-		<zValue>TRAIT_ILL</zValue>
 		<zType>SUBJECT_ILL</zType>
-		<zType>TRAIT_ILL</zType>
-		<Second>SUBJECT_ILL</Second>
-		<Name>TEXT_TRAIT_ILL</Name>
-		<LeaderSubject>SUBJECT_ILL</LeaderSubject>
-		<TraitPrereq>TRAIT_ILL</TraitPrereq>
-		<zValue>BONUS_GIVE_TRAIT_ILL</zValue>
-		<zType>BONUS_GIVE_TRAIT_ILL</zType>	
-		<zType>TEXT_TRAIT_ILL</zType>
-		<zType>TEXT_TRAIT_ILL_GAIN_1</zType>
-		<zType>TEXT_TRAIT_ILL_GAIN_2</zType>
-		<zType>TEXT_TRAIT_ILL_GAIN_3</zType>
-		<zType>TEXT_TRAIT_ILL_GAIN_4</zType>
-		<zType>TEXT_TRAIT_ILL_GAIN_5</zType>
-		<zType>TEXT_TRAIT_ILL_LOSS_1</zType>
-		<zType>TEXT_TRAIT_ILL_LOSS_2</zType>
-		<zType>TEXT_TRAIT_ILL_LOSS_3</zType>
-		<zValue>TEXT_TRAIT_ILL_GAIN_1</zValue>
-		<zValue>TEXT_TRAIT_ILL_GAIN_2</zValue>
-		<zValue>TEXT_TRAIT_ILL_GAIN_3</zValue>
-		<zValue>TEXT_TRAIT_ILL_GAIN_4</zValue>
-		<zValue>TEXT_TRAIT_ILL_GAIN_5</zValue>
-		<zValue>TEXT_TRAIT_ILL_LOSS_1</zValue>
-		<zValue>TEXT_TRAIT_ILL_LOSS_2</zValue>
-		<zValue>TEXT_TRAIT_ILL_LOSS_3</zValue>
 	</Entry>
-
+	<Entry>
+		<zType>TRAIT_ILL</zType>	
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_ILL</zType>	
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ILL</zType>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ILL_GAIN_1</zType>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ILL_GAIN_2</zType>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ILL_GAIN_3</zType>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ILL_GAIN_4</zType>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ILL_GAIN_5</zType>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ILL_LOSS_1</zType>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ILL_LOSS_2</zType>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ILL_LOSS_3</zType>
+	</Entry>
+</Root>
