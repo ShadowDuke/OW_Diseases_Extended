@@ -1,6 +1,6 @@
 <!-- Diseases Extended (© Revan© ) -->
 
-<Entry>
+	<Entry>
 		<zIndex>TRAIT_ILL</zIndex>
 		<zValue>TRAIT_ILL</zValue>
 		<zType>SUBJECT_ILL</zType>
@@ -28,4 +28,5 @@
 		<zValue>TEXT_TRAIT_ILL_LOSS_1</zValue>
 		<zValue>TEXT_TRAIT_ILL_LOSS_2</zValue>
 		<zValue>TEXT_TRAIT_ILL_LOSS_3</zValue>
-</Entry>
+	</Entry>
+

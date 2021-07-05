@@ -748,30 +748,22 @@
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>TRAIT_TRACHOMA</zIndex>
-				<iValue>5</iValue>
-			</Pair>
-			<Pair>
 				<zIndex>TRAIT_INFLUENZA</zIndex>
 				<iValue>15</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_BUBONIC_PLAGUE</zIndex>
-				<iValue>5</iValue>
 			</Pair>
 		</aiTraitProb>
 		<aiMortalityDieProb>
 			<Pair>
 				<zIndex>MORTALITY_LONG</zIndex>
-				<iValue>15</iValue>
+				<iValue>20</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>MORTALITY_STANDARD</zIndex>
-				<iValue>25</iValue>
+				<iValue>30</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>MORTALITY_REALISTIC</zIndex>
-				<iValue>45</iValue>
+				<iValue>50</iValue>
 			</Pair>
 		</aiMortalityDieProb>
 		<aiDecadeProb>
