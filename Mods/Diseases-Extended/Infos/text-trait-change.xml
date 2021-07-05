@@ -47,245 +47,247 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_GAIN_1</zType>
-		<Translation>{0_character} has now {1_trait}.</Translation>
+		<Translation>{0_character} hat jetzt {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_GAIN_2</zType>
-		<Translation>{0_character} is feeling light-headed and feverish. Shivering in pain and vomitting, {0_character} has now {1_trait}</Translation>
+		<Translation>{0_character} ist schwindelig und fiebernd. Zitternd mit Schmerzen und hat Brechanfälle, {0_character} hat jetzt {1_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_GAIN_3</zType>
-		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+		<Translation>{0_character} fühlte sich in letzter Zeit nicht so gut und hat jetzt {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_LOSS_1</zType>
-		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+		<Translation>{0_character} hat nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_LOSS_2</zType>
-		<Translation>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Krankheit erholt und hat nicht länger {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_LOSS_3</zType>
-		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} fühlt sich gottseidank jetzt besser und hat kein {1_trait} mehr.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_GAIN_1</zType>
-		<Translation>{0_character} has now {1_trait}.</Translation>
+		<Translation>{0_character} ist jetzt {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_GAIN_2</zType>
-		<Translation>{0_character} is feeling muscle pain, fatigue and nausea. Lesions starting to appear, {0_character} has now {1_trait}</Translation>
+		<Translation>{0_character} hat Muskelschmerzen, ist schwach und leidet unter Übelkeit. Krankheitsherd beginnen aufzutauchen, {0_character} ist jetzt {1_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_GAIN_3</zType>
-		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+		<Translation>{0_character} fühlte sich in letzter Zeit nicht so gut und ist jetzt {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_LOSS_1</zType>
-		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+		<Translation>{{0_character} ist nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_LOSS_2</zType>
-		<Translation>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} hat sich von {masculine_0:seinem:ihrem} Unwohlsein erholt und ist nicht länger {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_LOSS_3</zType>
-		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} fühlt sich gottseidank jetzt besser und ist nicht mehr {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_GAIN_1</zType>
-		<Translation>{0_character} has now the {1_trait}.</Translation>
+		<Translation>{0_character} has jetzt die {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_GAIN_2</zType>
-		<Translation>{0_character} is feeling feverish, fatigue and nausea. {masculine_0:His:Her} body is forming buboes. {0_character} has now the {1_trait}</Translation>
+		<Translation>{0_character} ist fiebernd, schwach und leidet unter Übelkeit. {masculine_0:Sein:Ihr} Körper bildet Beulen. {0_character} hat nun die {1_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_GAIN_3</zType>
-		<Translation>{0_character} has been feeling quite poor lately, and has now the {1_trait}.</Translation>
+		<Translation>{0_character} fühlte sich in letzter Zeit nicht so gut und hat jetzt die {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_LOSS_1</zType>
-		<Translation>{0_character} has no longer the {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+		<Translation>{{0_character} hat nicht länger die {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_LOSS_2</zType>
-		<Translation>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer the {1_trait}.</Translation>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Erkrankung erholt und hat nicht länger die {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_LOSS_3</zType>
-		<Translation>{0_character} is thankfully feeling much better now, and has no longer the {1_trait}.</Translation>
+		<Translation>{0_character} fühlt sich gottseidank jetzt besser und hat nicht mehr die {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_GAIN_1</zType>
-		<Translation>{0_character} has now {1_trait}.</Translation>
+		<Translation>{0_character} hat nun {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_GAIN_2</zType>
-		<Translation>{0_character} is coughing blood, feeling feverish and has fallen into a delirium. {0_character} has now {1_trait}</Translation>
+		<Translation>{0_character} hustet Blut, fühlt sich fiebernd und ist in ein Fieberwahn gefallen. {0_character} hat nun {1_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_GAIN_3</zType>
-		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+		<Translation>{0_character} fühlte sich in letzter Zeit nicht so gut und hat nun {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_LOSS_1</zType>
-		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+		<Translation>{{0_character} hat nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_LOSS_2</zType>
-		<Translation>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Krankheit erholt und hat nicht länger {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_LOSS_3</zType>
-		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} fühlt sich gottseidank jetzt besser und hat nicht mehr {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_GAIN_1</zType>
-		<Translation>{0_character} has now {1_trait}.</Translation>
+		<Translation>{0_character} hat nun eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_GAIN_2</zType>
-		<Translation>{0_character} is suddenly feeling feverish, has chills, headaches, muscle pain and aching, a feeling of discomfort and loss of appetite. {0_character} has now {1_trait}</Translation>
+		<Translation>{0_character} fühlt sich plötzlich fiebernd, hat Schüttelfrost, Kopfschmerzen und (Muskel) schmerzen. Ein Unbehagen und Appetitlosigkeit überkommt {masculine_0:ihn:ihr}. {0_character} hat nun eine {1_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_GAIN_3</zType>
-		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+		<Translation>{0_character} fühlte sich in letzter Zeit nicht so gut und hat nun eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_LOSS_1</zType>
-		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+		<Translation>{{0_character} hat nicht länger eine {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_LOSS_2</zType>
-		<Translation>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Erkrankung erholt und hat nicht länger eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_LOSS_3</zType>
-		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} fühlt sich gottseidank jetzt besser und hat nicht mehr eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_GAIN_1</zType>
-		<Translation>{0_character} has now {1_trait}.</Translation>
+		<Translation>{0_character} hat nun {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_GAIN_2</zType>
-		<Translation>{0_character} has lost sensation in fingers and toes. {masculine_0:His:Her} skin developed pale and pink coloured patches that is insensitive to temperature and pain, {0_character} has now {1_trait}</Translation>
+		<Translation>{0_character} hat Gefühl in Fingern und Zehen verloren. {masculine_0:Seine:Ihre} Haut hat bleiche und pinkfarbende Flecken entwickeltt die Empfindlich gegenüber Temperaturen und Schmerzen sind, {0_character} hat nun {1_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_GAIN_3</zType>
-		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+		<Translation>{0_character} fühlte sich in letzter Zeit nicht so gut und hat nun {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_LOSS_1</zType>
-		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+		<Translation>{{0_character} hat nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_LOSS_2</zType>
-		<Translation>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Krankheit erholt und hat nicht länger {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_LOSS_3</zType>
-		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} fühlt sich gottseidank jetzt besser und hat nicht mehr {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_GAIN_1</zType>
-		<Translation>{0_character} has now {1_trait}.</Translation>
+		<Translation>{0_character} hat nun {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_GAIN_2</zType>
-		<Translation>{0_character} has started to feel anxiety and is suffering from insomnia and confusion, hallucinations are the order of the day, {0_character} has now {1_trait}</Translation>
+		<Translation>{0_character} began Angst zu spüren und leidet unter Schlafstörungen und ist Verwirrt, Wahnvorstellungen sind an der Tagesordnung. {0_character} hat nun {1_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_GAIN_3</zType>
-		<Translation>{0_character} has been bitten by an animal and started to feel poor rather quickly and has now {1_trait}.</Translation>
+		<Translation>{0_character} wurde von einem Tier gebissen und fühlt sich zunehmend schlechter. {masculine_0:Er:Sie} hat nun {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_LOSS_1</zType>
-		<Translation>{0_character} has misteriously no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+		<Translation>{0_character} hat unerklärlicherweise nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_LOSS_2</zType>
-		<Translation>{0_character} has misteriously recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} hat sich unerklärlicherweise von {masculine_0:seiner:ihrer} Krankheit erholt und hat nicht länger {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_LOSS_3</zType>
-		<Translation>{0_character} is misteriously thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+		<Translation>Gottseidank fühlt sich {0_character} unerklärlicherweise nun viel besser and hat nicht länger {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_GAIN_1</zType>
-		<Translation>{0_character} has now {1_trait}.</Translation>
+		<Translation>{0_character} hat nun eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_GAIN_2</zType>
-		<Translation>{0_character} has started to feel shaking chills, has a productive cough and fever and difficulties to breath properly, {0_character} has now {1_trait}</Translation>
+		<Translation>{0_character} hat Schüttelfrost, produktiven Husten, Fieber und schwierigkeien vernünftig zu Atmen, {0_character} hat nun eine {1_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_GAIN_3</zType>
-		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+		<Translation>{0_character} fühlte sich in letzter Zeit nicht so gut und hat nun eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_LOSS_1</zType>
-		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+		<Translation>{0_character} hat nicht länger eine {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_LOSS_2</zType>
-		<Translation>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Krankheit erholt und hat nicht länger eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_LOSS_3</zType>
-		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} fühlt sich gottseidank jetzt besser und hat nicht mehr eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_GAIN_1</zType>
-		<Translation>{0_character} has now {1_trait}.</Translation>
+		<Translation>{0_character} hat unun {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_GAIN_2</zType>
-		<Translation>{0_character} has started to feel symptoms like fever, chills, night sweats, loss of appetite, weight loss and fatigue, {0_character} has now {1_trait}</Translation>
+		<Translation>{0_character} began Symptone wie Fieber, Schüttelfrost, Nachtschweiß, Appetitlosigkeit, Gewichtsverlust und Antriebslosigkeit zu spüren, {0_character} hat nun {1_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_GAIN_3</zType>
-		<Translation>{0_character} has been feeling quite poor lately, and has now {1_trait}.</Translation>
+		<Translation>{0_character} fühlte sich in letzter Zeit nicht so gut und hat nun nun {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_LOSS_1</zType>
-		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+		<Translation>{0_character} hat nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_LOSS_2</zType>
-		<Translation>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Krankheit erholt und hat nicht länger {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_LOSS_3</zType>
-		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} fühlt sich gottseidank jetzt besser und hat nicht mehr {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_GAIN_1</zType>
-		<Translation>{0_character} has now {1_trait}.</Translation>
+		<Translation>{0_character} hat nun eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_GAIN_2</zType>
-		<Translation>{0_character} has Swollen eyelids and is getting sensitivity to bright lights, {0_character} has now {1_trait}</Translation>
+		<Translation>{0_character} hat geschwollene Augenlider und wird empfindlich gegenüber hellem Licht, {0_character} hat nun eine {1_trait}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_GAIN_3</zType>
-		<Translation>{0_character} has been problems with his eyes quite lately, and has now {1_trait}.</Translation>
+		<Translation>{0_character} hat in letzter Zeit Probleme mit seinen Augen und hat nun eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_LOSS_1</zType>
-		<Translation>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</Translation>
+		<Translation>{0_character} hat nicht länger eine {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_LOSS_2</zType>
-		<Translation>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Erkrankung erholt und hat nicht länger eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_LOSS_3</zType>
-		<Translation>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</Translation>
+		<Translation>{0_character} fühlt sich gottseidank jetzt besser und hat keine {1_trait} mehr.</Translation>
 	</Entry>
-<!--<Entry>
+	
+<!--	
+	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL</zType>
 		<Translation>Severely Ill</Translation>
 	</Entry>
@@ -320,5 +322,6 @@
 	<Entry>
 		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_3</zType>
 		<Translation>{0_character} is now on the road to recovery, and no longer {1_trait}.</Translation>
-	</Entry>		-->
+	</Entry>
+-->
 </Root>
