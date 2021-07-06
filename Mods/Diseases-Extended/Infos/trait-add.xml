@@ -30,7 +30,7 @@
 		<aiTraitProb>
 			<Pair>
 				<zIndex>TRAIT_INFLUENZA</zIndex>
-				<iValue>35</iValue>
+				<iValue>30</iValue>
 			</Pair>
 		</aiTraitProb>
 		<aiMortalityDieProb>
@@ -54,7 +54,7 @@
 			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>3</iValue>	
-			<iValue>4</iValue>	
+			<iValue>3</iValue>	
 			<iValue>4</iValue>	
 			<iValue>4</iValue>	
 			<iValue>5</iValue>	
@@ -111,7 +111,7 @@
 			<zValue>TEXT_TRAIT_SMALLPOX_LOSS_2</zValue>
 			<zValue>TEXT_TRAIT_SMALLPOX_LOSS_3</zValue>
 		</LoseTexts>
-		<iRemoveProb>40</iRemoveProb>
+		<iRemoveProb>50</iRemoveProb>
 		<bRemoveLeader>1</bRemoveLeader>
 		<bRemoveDeath>1</bRemoveDeath>
 		<aiRating>
@@ -151,7 +151,7 @@
 			<iValue>3</iValue>	
 			<iValue>4</iValue>	
 			<iValue>4</iValue>	
-			<iValue>5</iValue>	
+			<iValue>4</iValue>	
 			<iValue>5</iValue>	
 			<iValue>4</iValue>	
 			<iValue>4</iValue>	
@@ -234,15 +234,15 @@
 		<aiMortalityDieProb>
 			<Pair>
 				<zIndex>MORTALITY_LONG</zIndex>
-				<iValue>25</iValue>
+				<iValue>20</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>MORTALITY_STANDARD</zIndex>
-				<iValue>45</iValue>
+				<iValue>40</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>MORTALITY_REALISTIC</zIndex>
-				<iValue>65</iValue>
+				<iValue>60</iValue>
 			</Pair>
 		</aiMortalityDieProb>
 		<aiDecadeProb>
@@ -251,11 +251,11 @@
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
 			<iValue>1</iValue>	
+			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>3</iValue>	
+			<iValue>3</iValue>	
 			<iValue>4</iValue>	
-			<iValue>5</iValue>	
-			<iValue>5</iValue>	
 		</aiDecadeProb>
 		<abSkipDecade>
 			<Pair>
@@ -309,7 +309,7 @@
 			<zValue>TEXT_TRAIT_TYPHOID_LOSS_2</zValue>
 			<zValue>TEXT_TRAIT_TYPHOID_LOSS_3</zValue>
 		</LoseTexts>
-		<iRemoveProb>50</iRemoveProb>
+		<iRemoveProb>65</iRemoveProb>
 		<bRemoveLeader>1</bRemoveLeader>
 		<bRemoveDeath>1</bRemoveDeath>
 		<aiRating>
@@ -325,21 +325,21 @@
 		<aiTraitProb>
 			<Pair>
 				<zIndex>TRAIT_PNEUMONIA</zIndex>
-				<iValue>50</iValue>
+				<iValue>40</iValue>
 			</Pair>
 		</aiTraitProb>
 		<aiMortalityDieProb>
 			<Pair>
 				<zIndex>MORTALITY_LONG</zIndex>
-				<iValue>15</iValue>
+				<iValue>10</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>MORTALITY_STANDARD</zIndex>
-				<iValue>25</iValue>
+				<iValue>20</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>MORTALITY_REALISTIC</zIndex>
-				<iValue>40</iValue>
+				<iValue>35</iValue>
 			</Pair>
 		</aiMortalityDieProb>
 		<aiDecadeProb>
@@ -349,7 +349,7 @@
 			<iValue>2</iValue>	
 			<iValue>2</iValue>	
 			<iValue>3</iValue>	
-			<iValue>4</iValue>	
+			<iValue>3</iValue>	
 			<iValue>3</iValue>	
 			<iValue>2</iValue>	
 			<iValue>1</iValue>	
@@ -406,7 +406,7 @@
 			<zValue>TEXT_TRAIT_INFLUENZA_LOSS_2</zValue>
 			<zValue>TEXT_TRAIT_INFLUENZA_LOSS_3</zValue>
 		</LoseTexts>
-		<iRemoveProb>70</iRemoveProb>
+		<iRemoveProb>75</iRemoveProb>
 		<bRemoveLeader>1</bRemoveLeader>
 		<bRemoveDeath>1</bRemoveDeath>
 		<aiRating>
@@ -461,13 +461,13 @@
 		</aiMortalityDieProb>
 		<aiDecadeProb>
 			<iValue>0</iValue>	
+			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>3</iValue>	
 			<iValue>4</iValue>	
 			<iValue>5</iValue>	
 			<iValue>6</iValue>	
-			<iValue>7</iValue>	
-			<iValue>10</iValue>	
+			<iValue>8</iValue>	
 			<iValue>10</iValue>	
 			<iValue>10</iValue>	
 		</aiDecadeProb>
@@ -570,7 +570,7 @@
 			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>2</iValue>	
-			<iValue>3</iValue>	
+			<iValue>2</iValue>	
 		</aiDecadeProb>
 		<abSkipDecade>
 			<Pair>
@@ -830,7 +830,7 @@
 			<zValue>TEXT_TRAIT_TUBERCULOSIS_LOSS_2</zValue>
 			<zValue>TEXT_TRAIT_TUBERCULOSIS_LOSS_3</zValue>
 		</LoseTexts>
-		<iRemoveProb>65</iRemoveProb>
+		<iRemoveProb>60</iRemoveProb>
 		<bRemoveLeader>1</bRemoveLeader>
 		<bRemoveDeath>1</bRemoveDeath>
 		<aiRating>
@@ -856,28 +856,28 @@
 		<aiMortalityDieProb>
 			<Pair>
 				<zIndex>MORTALITY_LONG</zIndex>
-				<iValue>20</iValue>
+				<iValue>25</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>MORTALITY_STANDARD</zIndex>
-				<iValue>30</iValue>
+				<iValue>40</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>MORTALITY_REALISTIC</zIndex>
-				<iValue>50</iValue>
+				<iValue>65</iValue>
 			</Pair>
 		</aiMortalityDieProb>
 		<aiDecadeProb>
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
-			<iValue>1</iValue>	
+			<iValue>0</iValue>	
 			<iValue>1</iValue>	
 			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>2</iValue>	
 			<iValue>3</iValue>	
-			<iValue>3</iValue>	
+			<iValue>2</iValue>	
 		</aiDecadeProb>
 		<abSkipDecade>
 <!--		<Pair>

@@ -239,7 +239,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_GAIN_1</zType>
-		<Translation>{0_character} hat unun {1_trait}.</Translation>
+		<Translation>{0_character} hat nun {1_trait}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_GAIN_2</zType>
