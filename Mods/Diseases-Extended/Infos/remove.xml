@@ -1,9 +1,6 @@
 <!-- Diseases Extended (© Revan© ) -->
 <Root>
 	<Entry>
-		<zType>SUBJECT_ILL</zType>
-	</Entry>
-	<Entry>
 		<zType>TRAIT_ILL</zType>	
 	</Entry>
 	<Entry>

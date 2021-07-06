@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
+<Root>
+	<Entry>
+		<zType>CHARACTER_MARDUK_NADIN_AHI</zType>
+		<Gender>GENDER_MALE</Gender>
+		<FirstName>NAME_MARDUK_NADIN_AHI</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_BABYLONIA_LEADER_MALE_04</PreferredPortrait>
+		<PlayerNation>NATION_BABYLONIA</PlayerNation>
+		<Father>CHARACTER_NEBUCHADNEZZAR</Father>
+		<Mother>CHARACTER_AMYTIS</Mother>
+		<iAge>1</iAge>
+		<aeTraits>
+			<zValue>TRAIT_SMALLPOX</zValue>
+		</aeTraits>
+	</Entry>
+</Root>
