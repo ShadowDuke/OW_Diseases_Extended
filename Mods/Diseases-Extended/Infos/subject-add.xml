@@ -2,51 +2,6 @@
 
 <Root>
 	<Entry>
-		<zType>SUBJECT_HEALTHY</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitInvalid>TRAIT_MALARIA</TraitInvalid>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_HEALTHY</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitInvalid>TRAIT_SMALLPOX</TraitInvalid>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_HEALTHY</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitInvalid>TRAIT_BUBONIC_PLAGUE</TraitInvalid>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_HEALTHY</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitInvalid>TRAIT_TYPHOID</TraitInvalid>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_HEALTHY</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitInvalid>TRAIT_INFLUENZA</TraitInvalid>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_HEALTHY</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitInvalid>TRAIT_LEPROSY</TraitInvalid>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_HEALTHY</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitInvalid>TRAIT_RABIES</TraitInvalid>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_HEALTHY</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitInvalid>TRAIT_PNEUMONIA</TraitInvalid>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_HEALTHY</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitInvalid>TRAIT_TRACHOMA</TraitInvalid>
-	</Entry>
-	<Entry>
 		<zType>SUBJECT_MALARIA</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_MALARIA</TraitPrereq>
