@@ -28,6 +28,7 @@
    - Adding also info about each disease, like symptoms (in most cases its only one of three eventoptions, the other 2 are more generic like in the base game for "ill")
 
 - SEVERELY_ILL is still in the game but heavily reduced (for stories) and those stories with the trait have been reworked with the new diseases as well
+- This is set to be played on **standard difficulty**. If you want proper realistic death chances, please play with **realistic mortality**.
 <br><br><br>
 - More harmless illnesses (like, fever, diarrhea, nausea, etc.) could be added, too to add more varietly for more harmless "diseases" or illnesses in this case
 - Compatible with all my mods
