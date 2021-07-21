@@ -73,7 +73,7 @@
 			<zValue>TEXT_TRAIT_SEVERELY_ILL_LOSS_2</zValue>
 			<zValue>TEXT_TRAIT_SEVERELY_ILL_LOSS_3</zValue>
 		</LoseTexts>
-		<iRemoveProb>40</iRemoveProb>
+		<iRemoveProb>50</iRemoveProb>
 		<bRemoveLeader>1</bRemoveLeader>
 		<bRemoveDeath>1</bRemoveDeath>
 		<aiRating>
@@ -85,15 +85,15 @@
 		<aiMortalityDieProb>
 			<Pair>
 				<zIndex>MORTALITY_LONG</zIndex>
-				<iValue>50</iValue>
+				<iValue>30</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>MORTALITY_STANDARD</zIndex>
-				<iValue>70</iValue>
+				<iValue>50</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>MORTALITY_REALISTIC</zIndex>
-				<iValue>90</iValue>
+				<iValue>70</iValue>
 			</Pair>
 		</aiMortalityDieProb>
 		<aiDecadeProb>
@@ -102,11 +102,11 @@
 			<iValue>0</iValue>
 			<iValue>0</iValue>
 			<iValue>0</iValue>
+			<iValue>3</iValue>
 			<iValue>5</iValue>
 			<iValue>10</iValue>
-			<iValue>20</iValue>
-			<iValue>30</iValue>
-			<iValue>30</iValue>
+			<iValue>15</iValue>
+			<iValue>15</iValue>
 		</aiDecadeProb>
 	</Entry>
 </Root>
