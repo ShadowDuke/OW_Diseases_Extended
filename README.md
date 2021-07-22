@@ -30,7 +30,7 @@
 - SEVERELY_ILL is still in the game but heavily reduced (for stories) and those stories with the trait have been reworked with the new diseases as well
 - This is set to be played on **standard difficulty**. If you want proper realistic death chances, please play with **realistic mortality**.
 <br><br><br>
-- More harmless illnesses (like, fever, diarrhea, nausea, etc.) could be added, too to add more varietly for more harmless "diseases" or illnesses in this case
+- 8 new (harmless) illnesses will be added soon
 - Compatible with all my mods
 <br><br>
 Aamong others; here is a [source](https://science.howstuffworks.com/life/cellular-microscopic/10-oldest-known-diseases.htm) explaining those diseases were already "discovered" >BCE (before AD) or soon after AD
