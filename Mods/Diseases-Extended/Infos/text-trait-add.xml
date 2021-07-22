@@ -1,6 +1,7 @@
 <!-- Diseases Extended (© Revan© ) -->
 
 <Root>
+<!-- Diseases -->
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA</zType>
 		<English>Malaria</English>
@@ -41,6 +42,40 @@
 		<zType>TEXT_TRAIT_TRACHOMA</zType>
 		<English>Trachoma</English>
 	</Entry>
+<!-- Illnesses -->
+	<Entry>
+		<zType>TEXT_TRAIT_COLD</zType>
+		<English>Cold</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DIABETES</zType>
+		<English>Diabetes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_GOUT</zType>
+		<English>Gout</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERPES</zType>
+		<English>Herpes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HYPOTHYROIDISM</zType>
+		<English>Hypothyroidism</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_THROMBOSIS</zType>
+		<English>Thrombosis</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BACKACHE</zType>
+		<English>Backache</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STOMACHACHE</zType>
+		<English>Stomachache</English>
+	</Entry>
+<!-- Diseases gain text-->
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_GAIN_1</zType>
 		<English>{0_character} has now {1_trait}.</English>
@@ -281,42 +316,133 @@
 		<zType>TEXT_TRAIT_TRACHOMA_LOSS_3</zType>
 		<English>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</English>
 	</Entry>
-	
-	
-<!--<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL</zType>
-		<English>Severely Ill</English>
+<!-- Illnesses gain text-->	
+	<Entry>
+		<zType>TEXT_TRAIT_COLD_GAIN_1</zType>
+		<English>{0_character} has now a {1_trait}.</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_1</zType>
-		<English>Afflicted by nigh-constant vomiting and diarrhea, {0_character} is {1_trait}.</English>
+		<zType>TEXT_TRAIT_COLD_GAIN_2</zType>
+		<English>{0_character} has a runny nouse and is coughing, {0_character} has now a {1_trait}</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_2</zType>
-		<English>{0_character} is {1_trait}, suffering from a high fever and constant shaking, leaving {masculine_0:him:her} barely able to walk.</English>
+		<zType>TEXT_TRAIT_COLD_LOSS_1</zType>
+		<English>{0_character} has no longer a {1_trait}, {masculine_0:he:she} has fully recovered!</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_3</zType>
-		<English>{1_trait}, coughing up bloody mucus and suffering from sharp pains in {masculine_0:his:her} chest, {0_character} fears {masculine_0:he:she} does not have much time left.</English>
+		<zType>TEXT_TRAIT_COLD_LOSS_2</zType>
+		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer a {1_trait}.</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_4</zType>
-		<English>Always having been a bit sickly, {0_character} has now become {1_trait}.</English>
+		<zType>TEXT_TRAIT_DIABETES_GAIN_1</zType>
+		<English>{0_character} has now {1_trait}.</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_5</zType>
-		<English>The health of {0_character} has taken a serious turn for the worse, and {masculine_0:he:she} is now {1_trait}.</English>
+		<zType>TEXT_TRAIT_DIABETES_GAIN_2</zType>
+		<English>{0_character} is overweight and suffers from physical inactivity, {0_character} has now {1_trait}</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_1</zType>
-		<English>{0_character} is no longer {1_trait}, {masculine_0:he:she} has made an amazing recovery!</English>
+		<zType>TEXT_TRAIT_DIABETES_LOSS_1</zType>
+		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_2</zType>
-		<English>Although {masculine_0:he:she} was at death's door, {0_character} has miraculously recovered from being {1_trait}.</English>
+		<zType>TEXT_TRAIT_DIABETES_LOSS_2</zType>
+		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_3</zType>
-		<English>{0_character} is now on the road to recovery, and no longer {1_trait}.</English>
-	</Entry>			-->
+		<zType>TEXT_TRAIT_GOUT_GAIN_1</zType>
+		<English>{0_character} has now {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_GOUT_GAIN_2</zType>
+		<English>A unhealthy eating and overweight causing {0_character} problems, {0_character} has now {1_trait}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_GOUT_LOSS_1</zType>
+		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_GOUT_LOSS_2</zType>
+		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERPES_GAIN_1</zType>
+		<English>{0_character} has now {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERPES_GAIN_2</zType>
+		<English>{0_character} has itchy skin and noticing small red bumps and tiny white blisters, {0_character} has now {1_trait}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERPES_LOSS_1</zType>
+		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERPES_LOSS_2</zType>
+		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HYPOTHYROIDISM_GAIN_1</zType>
+		<English>{0_character} has now {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HYPOTHYROIDISM_GAIN_2</zType>
+		<English>{0_character} is fatigued, has an increased sensitivity to cold and {masculine_0:his:her} muscles are weak, {0_character} has now {1_trait}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HYPOTHYROIDISM_LOSS_1</zType>
+		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HYPOTHYROIDISM_LOSS_2</zType>
+		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_THROMBOSIS_GAIN_1</zType>
+		<English>{0_character} has now {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_THROMBOSIS_GAIN_2</zType>
+		<English>Pain and swelling in the limbs, {0_character} has now {1_trait}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_THROMBOSIS_LOSS_1</zType>
+		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_THROMBOSIS_LOSS_2</zType>
+		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BACKACHE_GAIN_1</zType>
+		<English>{0_character} has now {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BACKACHE_GAIN_2</zType>
+		<English>{0_character} feeling pain in {masculine_0:his:her} back for some time now, after {masculine_0:he:she} was working quite a lot the past few years, {0_character} has now {1_trait}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BACKACHE_LOSS_1</zType>
+		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BACKACHE_LOSS_2</zType>
+		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STOMACHACHE_GAIN_1</zType>
+		<English>{0_character} has now {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STOMACHACHE_GAIN_2</zType>
+		<English>{0_character} has abdominal pain and has indigestion, {0_character} has now {1_trait}</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STOMACHACHE_LOSS_1</zType>
+		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STOMACHACHE_LOSS_2</zType>
+		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+	</Entry>
 </Root>

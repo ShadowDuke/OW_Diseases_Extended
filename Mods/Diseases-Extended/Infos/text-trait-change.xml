@@ -1,10 +1,7 @@
 <!-- Diseases Extended (© Revan© ) -->
 
 <Root>
-	<Entry>
-		<zType/>
-		<Translation/>
-	</Entry>
+<!-- Diseases -->
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA</zType>
 		<Translation>Malaria</Translation>
@@ -41,6 +38,40 @@
 		<zType>TEXT_TRAIT_TUBERCULOSIS</zType>
 		<Translation>Tuberkulose</Translation>
 	</Entry>
+<!-- Illnesses -->
+	<Entry>
+		<zType>TEXT_TRAIT_COLD</zType>
+		<Translation>Erkältung</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DIABETES</zType>
+		<Translation>Diabetes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_GOUT</zType>
+		<Translation>Gicht</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERPES</zType>
+		<Translation>Herpes</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HYPOTHYROIDISM</zType>
+		<Translation>Schilddrüsenunterfunktion</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_THROMBOSIS</zType>
+		<Translation>Thrombose</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BACKACHE</zType>
+		<Translation>Rückenschmerzen</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STOMACHACHE</zType>
+		<Translation>Bauchschmerzen</Translation>
+	</Entry>
+<!-- Diseases gain text-->
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA</zType>
 		<Translation>Bindehautentzündung</Translation>
@@ -285,43 +316,133 @@
 		<zType>TEXT_TRAIT_TRACHOMA_LOSS_3</zType>
 		<Translation>{0_character} fühlt sich gottseidank jetzt besser und hat keine {1_trait} mehr.</Translation>
 	</Entry>
-	
-<!--	
+<!-- Illnesses gain text-->	
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL</zType>
-		<Translation>Severely Ill</Translation>
+		<zType>TEXT_TRAIT_COLD_GAIN_1</zType>
+		<Translation>{0_character} hat nun eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_1</zType>
-		<Translation>Afflicted by nigh-constant vomiting and diarrhea, {0_character} is {1_trait}.</Translation>
+		<zType>TEXT_TRAIT_COLD_GAIN_2</zType>
+		<Translation>{0_character} läuft die Nase und muss husten, {0_character} hat nun eine {1_trait}</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_2</zType>
-		<Translation>{0_character} is {1_trait}, suffering from a high fever and constant shaking, leaving {masculine_0:him:her} barely able to walk.</Translation>
+		<zType>TEXT_TRAIT_COLD_LOSS_1</zType>
+		<Translation>{0_character} hat nicht länger eine {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_3</zType>
-		<Translation>{1_trait}, coughing up bloody mucus and suffering from sharp pains in {masculine_0:his:her} chest, {0_character} fears {masculine_0:he:she} does not have much time left.</Translation>
+		<zType>TEXT_TRAIT_COLD_LOSS_2</zType>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Erkrankung erholt und hat nicht länger eine {1_trait}.</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_4</zType>
-		<Translation>Always having been a bit sickly, {0_character} has now become {1_trait}.</Translation>
+		<zType>TEXT_TRAIT_DIABETES_GAIN_1</zType>
+		<Translation>{0_character} hat nun {1_trait}.</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_GAIN_5</zType>
-		<Translation>The health of {0_character} has taken a serious turn for the worse, and {masculine_0:he:she} is now {1_trait}.</Translation>
+		<zType>TEXT_TRAIT_DIABETES_GAIN_2</zType>
+		<Translation>{0_character} ist übergewichtig und leidet an Bewegungsmangel, {0_character} hat nun {1_trait}</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_1</zType>
-		<Translation>{0_character} is no longer {1_trait}, {masculine_0:he:she} has made an amazing recovery!</Translation>
+		<zType>TEXT_TRAIT_DIABETES_LOSS_1</zType>
+		<Translation>{0_character} hat nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_2</zType>
-		<Translation>Although {masculine_0:he:she} was at death's door, {0_character} has miraculously recovered from being {1_trait}.</Translation>
+		<zType>TEXT_TRAIT_DIABETES_LOSS_2</zType>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Erkrankung erholt und hat nicht länger {1_trait}.</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_SEVERELY_ILL_LOSS_3</zType>
-		<Translation>{0_character} is now on the road to recovery, and no longer {1_trait}.</Translation>
+		<zType>TEXT_TRAIT_GOUT_GAIN_1</zType>
+		<Translation>{0_character} hat nun  {1_trait}.</Translation>
 	</Entry>
--->
+	<Entry>
+		<zType>TEXT_TRAIT_GOUT_GAIN_2</zType>
+		<Translation>Eine ungesunde Ernährung und Übergewicht besorgen {0_character} Probleme, {0_character} hat nun {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_GOUT_LOSS_1</zType>
+		<Translation>{0_character} hat nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_GOUT_LOSS_2</zType>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Erkrankung erholt und hat nicht länger {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERPES_GAIN_1</zType>
+		<Translation>{0_character} hat nun {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERPES_GAIN_2</zType>
+		<Translation>{0_character} hat juckende Haut und bermerkt kleine rote Beulen und kleine weiße Blasen, {0_character} hat nun {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERPES_LOSS_1</zType>
+		<Translation>{0_character} hat nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HERPES_LOSS_2</zType>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Erkrankung erholt und hat nicht länger {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HYPOTHYROIDISM_GAIN_1</zType>
+		<Translation>{0_character} hat nun eine {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HYPOTHYROIDISM_GAIN_2</zType>
+		<Translation>{0_character} ist müde, höhere sensibilität gegenüber Kälte und {masculine_0:seine:uhre} Muskeln sind schwach, {0_character} hat nun eine {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HYPOTHYROIDISM_LOSS_1</zType>
+		<Translation>{0_character} hat nicht länger eine {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HYPOTHYROIDISM_LOSS_2</zType>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Erkrankung erholt und hat nicht länger eine {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_THROMBOSIS_GAIN_1</zType>
+		<Translation>{0_character} hat nun {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_THROMBOSIS_GAIN_2</zType>
+		<Translation>Schmerzen und geschwollene Glieder, {0_character} hat nun {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_THROMBOSIS_LOSS_1</zType>
+		<Translation>{0_character} hat nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_THROMBOSIS_LOSS_2</zType>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Erkrankung erholt und hat nicht länger {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BACKACHE_GAIN_1</zType>
+		<Translation>{0_character} has now {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BACKACHE_GAIN_2</zType>
+		<Translation>{0_character} fühlt für eine ganze Weile schon Schmerzen in {masculine_0:seinem:ihrem} Rücken, nachdem {masculine_0:er:sie} in den letzten Jahren sehr viel gearbeitet hat, {0_character} hat nun {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BACKACHE_LOSS_1</zType>
+		<Translation>{0_character} hat nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_BACKACHE_LOSS_2</zType>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Erkrankung erholt und hat nicht länger {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STOMACHACHE_GAIN_1</zType>
+		<Translation>{0_character} hat nun {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STOMACHACHE_GAIN_2</zType>
+		<Translation>{0_character} hat Schmerzen in der Bauchregion und hat eine Magenverstimmung, {0_character} hat nun {1_trait}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STOMACHACHE_LOSS_1</zType>
+		<Translation>{0_character} hat nicht länger {1_trait}, {masculine_0:er:sie} hat sich vollständig erholt!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_STOMACHACHE_LOSS_2</zType>
+		<Translation>{0_character} hat sich von {masculine_0:seiner:ihrer} Erkrankung erholt und hat nicht länger {1_trait}.</Translation>
+	</Entry>
 </Root>

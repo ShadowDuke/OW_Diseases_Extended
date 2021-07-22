@@ -1,11 +1,18 @@
 <!-- Diseases Extended (© Revan© ) -->
 
 <Root>
+<!-- Diseases -->
 	<Entry>
 		<zType>BONUS_GIVE_TRAIT_MALARIA</zType>
 		<aeAddTraits>
 			<zValue>TRAIT_MALARIA</zValue>
 		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_MALARIA</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_MALARIA</zValue>
+		</aeRemoveTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_GIVE_TRAIT_SMALLPOX</zType>
@@ -14,10 +21,22 @@
 		</aeAddTraits>
 	</Entry>
 	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_SMALLPOX</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_SMALLPOX</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
 		<zType>BONUS_GIVE_TRAIT_BUBONIC_PLAGUE</zType>
 		<aeAddTraits>
 			<zValue>TRAIT_BUBONIC_PLAGUE</zValue>
 		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_BUBONIC_PLAGUE</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_BUBONIC_PLAGUE</zValue>
+		</aeRemoveTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_GIVE_TRAIT_TYPHOID</zType>
@@ -26,10 +45,22 @@
 		</aeAddTraits>
 	</Entry>
 	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_TYPHOID</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_TYPHOID</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
 		<zType>BONUS_GIVE_TRAIT_INFLUENZA</zType>
 		<aeAddTraits>
 			<zValue>TRAIT_INFLUENZA</zValue>
 		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_INFLUENZA</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_INFLUENZA</zValue>
+		</aeRemoveTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_GIVE_TRAIT_LEPROSY</zType>
@@ -38,10 +69,22 @@
 		</aeAddTraits>
 	</Entry>
 	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_LEPROSY</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_LEPROSY</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
 		<zType>BONUS_GIVE_TRAIT_RABIES</zType>
 		<aeAddTraits>
 			<zValue>TRAIT_RABIES</zValue>
 		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_RABIES</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_RABIES</zValue>
+		</aeRemoveTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_GIVE_TRAIT_PNEUMONIA</zType>
@@ -50,15 +93,130 @@
 		</aeAddTraits>
 	</Entry>
 	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_PNEUMONIA</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_PNEUMONIA</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
 		<zType>BONUS_GIVE_TRAIT_TUBERCULOSIS</zType>
 		<aeAddTraits>
 			<zValue>TRAIT_TUBERCULOSIS</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_TUBERCULOSIS</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_TUBERCULOSIS</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
 		<zType>BONUS_GIVE_TRAIT_TRACHOMA</zType>
 		<aeAddTraits>
 			<zValue>TRAIT_TRACHOMA</zValue>
 		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_TRACHOMA</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_TRACHOMA</zValue>
+		</aeRemoveTraits>
+	</Entry>
+<!-- Illnesses -->
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_COLD</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_COLD</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_COLD</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_COLD</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_DIABETES</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_DIABETES</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_DIABETES</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_DIABETES</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_GOUT</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_GOUT</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_GOUT</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_GOUT</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_HERPES</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_HERPES</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_HERPES</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_HERPES</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_HYPOTHYROIDISM</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_HYPOTHYROIDISM</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_HYPOTHYROIDISM</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_HYPOTHYROIDISM</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_THROMBOSIS</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_THROMBOSIS</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_THROMBOSIS</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_THROMBOSIS</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_BACKACHE</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_BACKACHE</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_BACKACHE</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_BACKACHE</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_STOMACHACHE</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_STOMACHACHE</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_STOMACHACHE</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_STOMACHACHE</zValue>
+		</aeRemoveTraits>
 	</Entry>
 </Root>

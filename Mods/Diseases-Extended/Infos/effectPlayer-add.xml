@@ -1,0 +1,33 @@
+<!-- Diseases Extended (© Revan© ) -->
+
+<Root>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_DIABETES</zType>
+		<Name>TEXT_TRAIT_DIABETES</Name>
+		<SourceTrait>TRAIT_DIABETES</SourceTrait>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>-30</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_HYPOTHYROIDISM</zType>
+		<Name>TEXT_TRAIT_HYPOTHYROIDISM</Name>
+		<SourceTrait>TRAIT_HYPOTHYROIDISM</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_HYPOTHYROIDISM</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_BACKACHE</zType>
+		<Name>TEXT_TRAIT_BACKACHE</Name>
+		<SourceTrait>TRAIT_BACKACHE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_BACKACHE</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_STOMACHACHE</zType>
+		<Name>TEXT_TRAIT_STOMACHACHE</Name>
+		<SourceTrait>TRAIT_STOMACHACHE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_STOMACHACHE</EffectCity>
+	</Entry>
+</Root>

@@ -1,10 +1,16 @@
 <!-- Diseases Extended (© Revan© ) -->
 
 <Root>
+<!-- Diseases -->
 	<Entry>
 		<zType>SUBJECT_MALARIA</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_MALARIA</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_MALARIA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_MALARIA</TraitInvalid>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_SMALLPOX</zType>
@@ -12,9 +18,19 @@
 		<TraitPrereq>TRAIT_SMALLPOX</TraitPrereq>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_NOT_SMALLPOX</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_SMALLPOX</TraitInvalid>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_BUBONIC_PLAGUE</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_BUBONIC_PLAGUE</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_BUBONIC_PLAGUE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_BUBONIC_PLAGUE</TraitInvalid>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_TYPHOID</zType>
@@ -22,9 +38,19 @@
 		<TraitPrereq>TRAIT_TYPHOID</TraitPrereq>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_NOT_TYPHOID</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_TYPHOID</TraitInvalid>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_INFLUENZA</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_INFLUENZA</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_INFLUENZA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_INFLUENZA</TraitInvalid>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_LEPROSY</zType>
@@ -32,9 +58,19 @@
 		<TraitPrereq>TRAIT_LEPROSY</TraitPrereq>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_NOT_LEPROSY</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_LEPROSY</TraitInvalid>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_RABIES</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_RABIES</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_RABIES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_RABIES</TraitInvalid>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_PNEUMONIA</zType>
@@ -42,13 +78,109 @@
 		<TraitPrereq>TRAIT_PNEUMONIA</TraitPrereq>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_NOT_PNEUMONIA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_PNEUMONIA</TraitInvalid>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_TUBERCULOSIS</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_TUBERCULOSIS</TraitPrereq>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_NOT_TUBERCULOSIS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_TUBERCULOSIS</TraitInvalid>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_TRACHOMA</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_TRACHOMA</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_TRACHOMA</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_TRACHOMA</TraitInvalid>
+	</Entry>
+<!-- Illnesses -->
+	<Entry>
+		<zType>SUBJECT_COLD</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_COLD</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_COLD</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_COLD</TraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_DIABETES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_DIABETES</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_DIABETES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_DIABETES</TraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_GOUT</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_GOUT</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_GOUT</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_GOUT</TraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_HERPES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_HERPES</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_HERPES</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_HERPES</TraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_HYPOTHYROIDISM</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_HYPOTHYROIDISM</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_HYPOTHYROIDISM</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_HYPOTHYROIDISM</TraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_THROMBOSIS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_THROMBOSIS</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_THROMBOSIS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_THROMBOSIS</TraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_BACKACHE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_BACKACHE</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_BACKACHE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_BACKACHE</TraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_STOMACHACHE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_STOMACHACHE</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_STOMACHACHE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_STOMACHACHE</TraitInvalid>
 	</Entry>
 </Root>
