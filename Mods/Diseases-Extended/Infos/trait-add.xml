@@ -52,13 +52,13 @@
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
+			<iValue>0</iValue>	
+			<iValue>1</iValue>	
 			<iValue>1</iValue>	
 			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>2</iValue>	
 			<iValue>3</iValue>	
-			<iValue>3</iValue>	
-			<iValue>4</iValue>	
 		</aiDecadeProb>
 		<abSkipDecade>
 			<Pair>
@@ -148,14 +148,14 @@
 		<aiDecadeProb>
 			<iValue>0</iValue>	
 			<iValue>1</iValue>	
+			<iValue>0</iValue>	
 			<iValue>1</iValue>	
 			<iValue>2</iValue>	
+			<iValue>2</iValue>	
+			<iValue>2</iValue>	
 			<iValue>3</iValue>	
-			<iValue>3</iValue>	
-			<iValue>3</iValue>	
-			<iValue>4</iValue>	
-			<iValue>3</iValue>	
-			<iValue>3</iValue>	
+			<iValue>2</iValue>	
+			<iValue>2</iValue>	
 		</aiDecadeProb>
 		<abSkipDecade>
 			<Pair>
@@ -252,11 +252,11 @@
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
+			<iValue>0</iValue>	
+			<iValue>1</iValue>	
 			<iValue>1</iValue>	
 			<iValue>1</iValue>	
 			<iValue>2</iValue>	
-			<iValue>2</iValue>	
-			<iValue>3</iValue>	
 		</aiDecadeProb>
 		<abSkipDecade>
 			<Pair>
@@ -346,7 +346,7 @@
 		<aiDecadeProb>
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
-			<iValue>1</iValue>	
+			<iValue>0</iValue>	
 			<iValue>1</iValue>	
 			<iValue>1</iValue>	
 			<iValue>2</iValue>	
@@ -462,11 +462,11 @@
 			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>3</iValue>	
+			<iValue>3</iValue>	
 			<iValue>4</iValue>	
-			<iValue>5</iValue>	
-			<iValue>7</iValue>	
-			<iValue>9</iValue>	
-			<iValue>9</iValue>	
+			<iValue>6</iValue>	
+			<iValue>8</iValue>	
+			<iValue>8</iValue>	
 		</aiDecadeProb>
 		<abSkipDecade>
 <!--		<Pair>
@@ -561,7 +561,7 @@
 			<iValue>0</iValue>	
 			<iValue>1</iValue>	
 			<iValue>1</iValue>	
-			<iValue>2</iValue>	
+			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>2</iValue>	
 		</aiDecadeProb>
@@ -666,7 +666,7 @@
 			<iValue>0</iValue>	
 			<iValue>1</iValue>	
 			<iValue>1</iValue>	
-			<iValue>2</iValue>	
+			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>2</iValue>	
 		</aiDecadeProb>
@@ -760,16 +760,16 @@
 			</Pair>
 		</aiMortalityDieProb>
 		<aiDecadeProb>
-			<iValue>1</iValue>	
+			<iValue>0</iValue>	
+			<iValue>0</iValue>	
 			<iValue>1</iValue>	
 			<iValue>1</iValue>	
 			<iValue>2</iValue>	
+			<iValue>2</iValue>	
+			<iValue>2</iValue>
 			<iValue>3</iValue>	
-			<iValue>3</iValue>	
-			<iValue>3</iValue>
 			<iValue>4</iValue>	
 			<iValue>5</iValue>	
-			<iValue>6</iValue>	
 		</aiDecadeProb>
 		<abSkipDecade>
 			<Pair>
@@ -861,12 +861,12 @@
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
+			<iValue>0</iValue>	
 			<iValue>1</iValue>	
 			<iValue>1</iValue>	
+			<iValue>1</iValue>	
 			<iValue>2</iValue>	
-			<iValue>2</iValue>	
-			<iValue>3</iValue>	
-			<iValue>2</iValue>	
+			<iValue>1</iValue>	
 		</aiDecadeProb>
 		<abSkipDecade>
 <!--		<Pair>
@@ -954,16 +954,16 @@
 			</Pair>
 		</aiMortalityDieProb>
 		<aiDecadeProb>
+			<iValue>0</iValue>	
 			<iValue>1</iValue>	
 			<iValue>1</iValue>	
-			<iValue>2</iValue>	
-			<iValue>2</iValue>	
+			<iValue>1</iValue>	
+			<iValue>3</iValue>	
+			<iValue>3</iValue>	
 			<iValue>4</iValue>	
 			<iValue>4</iValue>	
-			<iValue>6</iValue>	
-			<iValue>6</iValue>	
-			<iValue>7</iValue>	
-			<iValue>7</iValue>	
+			<iValue>5</iValue>	
+			<iValue>5</iValue>	
 		</aiDecadeProb>
 		<abSkipDecade>
 			<Pair>
@@ -1126,9 +1126,9 @@
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
+			<iValue>1</iValue>	
 			<iValue>2</iValue>	
-			<iValue>3</iValue>	
-			<iValue>3</iValue>	
+			<iValue>2</iValue>	
 			<iValue>3</iValue>	
 			<iValue>3</iValue>	
 		</aiDecadeProb>
@@ -1157,13 +1157,13 @@
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
 			<iValue>1</iValue>	
+			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>3</iValue>	
 			<iValue>4</iValue>	
 			<iValue>4</iValue>	
 			<iValue>5</iValue>	
-			<iValue>6</iValue>	
-			<iValue>6</iValue>	
+			<iValue>5</iValue>	
 		</aiDecadeProb>
 	</Entry>
 	<Entry>
@@ -1205,7 +1205,7 @@
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
-			<iValue>1</iValue>	
+			<iValue>0</iValue>	
 			<iValue>1</iValue>	
 			<iValue>1</iValue>	
 			<iValue>2</iValue>	
@@ -1260,11 +1260,11 @@
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
+			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>3</iValue>	
+			<iValue>3</iValue>	
 			<iValue>4</iValue>	
-			<iValue>4</iValue>	
-			<iValue>5</iValue>	
 		</aiDecadeProb>
 	</Entry>
 	<Entry>
@@ -1286,13 +1286,13 @@
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
-			<iValue>0</iValue>	
+			<iValue>1</iValue>	
+			<iValue>4</iValue>	
 			<iValue>5</iValue>	
+			<iValue>6</iValue>	
 			<iValue>6</iValue>	
 			<iValue>7</iValue>	
 			<iValue>7</iValue>	
-			<iValue>8</iValue>	
-			<iValue>8</iValue>	
 		</aiDecadeProb>
 	</Entry>
 	<Entry>
@@ -1341,12 +1341,12 @@
 			<iValue>0</iValue>	
 			<iValue>0</iValue>	
 			<iValue>1</iValue>	
+			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 			<iValue>3</iValue>	
 			<iValue>4</iValue>	
 			<iValue>5</iValue>	
 			<iValue>6</iValue>	
-			<iValue>7</iValue>	
 		</aiDecadeProb>
 	</Entry>
 </Root>
