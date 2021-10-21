@@ -4,445 +4,445 @@
 <!-- Diseases -->
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA</zType>
-		<English>Malaria</English>
+		<en-US>Malaria</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX</zType>
-		<English>Smallpox</English>
+		<en-US>Smallpox</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE</zType>
-		<English>Bubonic Plague</English>
+		<en-US>Bubonic Plague</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID</zType>
-		<English>Typhoid</English>
+		<en-US>Typhoid</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA</zType>
-		<English>Influenza</English>
+		<en-US>Influenza</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY</zType>
-		<English>Leprosy</English>
+		<en-US>Leprosy</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES</zType>
-		<English>Rabies</English>
+		<en-US>Rabies</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA</zType>
-		<English>Pneumonia</English>
+		<en-US>Pneumonia</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS</zType>
-		<English>Tuberculosis</English>
+		<en-US>Tuberculosis</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA</zType>
-		<English>Trachoma</English>
+		<en-US>Trachoma</en-US>
 	</Entry>
 <!-- Illnesses -->
 	<Entry>
 		<zType>TEXT_TRAIT_COLD</zType>
-		<English>Cold</English>
+		<en-US>Cold</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIABETES</zType>
-		<English>Diabetes</English>
+		<en-US>Diabetes</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GOUT</zType>
-		<English>Gout</English>
+		<en-US>Gout</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERPES</zType>
-		<English>Herpes</English>
+		<en-US>Herpes</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HYPOTHYROIDISM</zType>
-		<English>Hypothyroidism</English>
+		<en-US>Hypothyroidism</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_THROMBOSIS</zType>
-		<English>Thrombosis</English>
+		<en-US>Thrombosis</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BACKACHE</zType>
-		<English>Backache</English>
+		<en-US>Backache</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STOMACHACHE</zType>
-		<English>Stomachache</English>
+		<en-US>Stomachache</en-US>
 	</Entry>
 <!-- Diseases gain text-->
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_GAIN_2</zType>
-		<English>{0_character} is feeling light-headed and feverish. Shivering in pain and vomitting, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} is feeling light-headed and feverish. Shivering in pain and vomitting, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_GAIN_3</zType>
-		<English>{0_character} has been feeling quite poor lately, and has now {1_trait}.</English>
+		<en-US>{0_character} has been feeling quite poor lately, and has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MALARIA_LOSS_3</zType>
-		<English>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</English>
+		<en-US>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_GAIN_2</zType>
-		<English>{0_character} is feeling muscle pain, fatigue and nausea. Lesions starting to appear, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} is feeling muscle pain, fatigue and nausea. Lesions starting to appear, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_GAIN_3</zType>
-		<English>{0_character} has been feeling quite poor lately, and has now {1_trait}.</English>
+		<en-US>{0_character} has been feeling quite poor lately, and has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SMALLPOX_LOSS_3</zType>
-		<English>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</English>
+		<en-US>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_GAIN_1</zType>
-		<English>{0_character} has now the {1_trait}.</English>
+		<en-US>{0_character} has now the {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_GAIN_2</zType>
-		<English>{0_character} is feeling feverish, fatigue and nausea. {masculine_0:His:Her} body is forming buboes. {0_character} has now the {1_trait}</English>
+		<en-US>{0_character} is feeling feverish, fatigue and nausea. {masculine_0:His:Her} body is forming buboes. {0_character} has now the {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_GAIN_3</zType>
-		<English>{0_character} has been feeling quite poor lately, and has now the {1_trait}.</English>
+		<en-US>{0_character} has been feeling quite poor lately, and has now the {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_LOSS_1</zType>
-		<English>{0_character} has no longer the {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer the {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer the {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer the {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BUBONIC_PLAGUE_LOSS_3</zType>
-		<English>{0_character} is thankfully feeling much better now, and has no longer the {1_trait}.</English>
+		<en-US>{0_character} is thankfully feeling much better now, and has no longer the {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_GAIN_2</zType>
-		<English>{0_character} is coughing blood, feeling feverish and has fallen into a delirium. {0_character} has now {1_trait}</English>
+		<en-US>{0_character} is coughing blood, feeling feverish and has fallen into a delirium. {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_GAIN_3</zType>
-		<English>{0_character} has been feeling quite poor lately, and has now {1_trait}.</English>
+		<en-US>{0_character} has been feeling quite poor lately, and has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TYPHOID_LOSS_3</zType>
-		<English>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</English>
+		<en-US>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_GAIN_2</zType>
-		<English>{0_character} is suddenly feeling feverish, has chills, headaches, muscle pain and aching, a feeling of discomfort and loss of appetite. {0_character} has now {1_trait}</English>
+		<en-US>{0_character} is suddenly feeling feverish, has chills, headaches, muscle pain and aching, a feeling of discomfort and loss of appetite. {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_GAIN_3</zType>
-		<English>{0_character} has been feeling quite poor lately, and has now {1_trait}.</English>
+		<en-US>{0_character} has been feeling quite poor lately, and has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INFLUENZA_LOSS_3</zType>
-		<English>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</English>
+		<en-US>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_GAIN_2</zType>
-		<English>{0_character} has lost sensation in fingers and toes. {masculine_0:His:Her} skin developed pale and pink coloured patches that is insensitive to temperature and pain, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} has lost sensation in fingers and toes. {masculine_0:His:Her} skin developed pale and pink coloured patches that is insensitive to temperature and pain, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_GAIN_3</zType>
-		<English>{0_character} has been feeling quite poor lately, and has now {1_trait}.</English>
+		<en-US>{0_character} has been feeling quite poor lately, and has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_LEPROSY_LOSS_3</zType>
-		<English>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</English>
+		<en-US>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_GAIN_2</zType>
-		<English>{0_character} has started to feel anxiety and is suffering from insomnia and confusion, hallucinations are the order of the day, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} has started to feel anxiety and is suffering from insomnia and confusion, hallucinations are the order of the day, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_GAIN_3</zType>
-		<English>{0_character} has been bitten by an animal and started to feel poor rather quickly and has now {1_trait}.</English>
+		<en-US>{0_character} has been bitten by an animal and started to feel poor rather quickly and has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_LOSS_1</zType>
-		<English>{0_character} has mysteriously no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has mysteriously no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_LOSS_2</zType>
-		<English>{0_character} has mysteriously recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has mysteriously recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RABIES_LOSS_3</zType>
-		<English>{0_character} is mysteriously thankfully feeling much better now, and has no longer {1_trait}.</English>
+		<en-US>{0_character} is mysteriously thankfully feeling much better now, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_GAIN_2</zType>
-		<English>{0_character} has started to feel shaking chills, has a productive cough and fever and difficulties to breath properly, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} has started to feel shaking chills, has a productive cough and fever and difficulties to breath properly, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_GAIN_3</zType>
-		<English>{0_character} has been feeling quite poor lately, and has now {1_trait}.</English>
+		<en-US>{0_character} has been feeling quite poor lately, and has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} illness, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PNEUMONIA_LOSS_3</zType>
-		<English>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</English>
+		<en-US>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_GAIN_2</zType>
-		<English>{0_character} has started to feel symptoms like fever, chills, night sweats, loss of appetite, weight loss and fatigue, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} has started to feel symptoms like fever, chills, night sweats, loss of appetite, weight loss and fatigue, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_GAIN_3</zType>
-		<English>{0_character} has been feeling quite poor lately, and has now {1_trait}.</English>
+		<en-US>{0_character} has been feeling quite poor lately, and has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} sickness, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TUBERCULOSIS_LOSS_3</zType>
-		<English>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</English>
+		<en-US>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_GAIN_2</zType>
-		<English>{0_character} has Swollen eyelids and is getting sensitivity to bright lights, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} has Swollen eyelids and is getting sensitivity to bright lights, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_GAIN_3</zType>
-		<English>{0_character} has been problems with his eyes quite lately, and has now {1_trait}.</English>
+		<en-US>{0_character} has been problems with his eyes quite lately, and has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TRACHOMA_LOSS_3</zType>
-		<English>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</English>
+		<en-US>{0_character} is thankfully feeling much better now, and has no longer {1_trait}.</en-US>
 	</Entry>
 <!-- Illnesses gain text-->	
 	<Entry>
 		<zType>TEXT_TRAIT_COLD_GAIN_1</zType>
-		<English>{0_character} has now a {1_trait}.</English>
+		<en-US>{0_character} has now a {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COLD_GAIN_2</zType>
-		<English>{0_character} has a runny nouse and is coughing, {0_character} has now a {1_trait}</English>
+		<en-US>{0_character} has a runny nouse and is coughing, {0_character} has now a {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COLD_LOSS_1</zType>
-		<English>{0_character} has no longer a {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer a {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_COLD_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer a {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer a {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIABETES_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIABETES_GAIN_2</zType>
-		<English>{0_character} is overweight and suffers from physical inactivity, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} is overweight and suffers from physical inactivity, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIABETES_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DIABETES_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GOUT_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GOUT_GAIN_2</zType>
-		<English>A unhealthy eating and overweight causing {0_character} problems, {0_character} has now {1_trait}</English>
+		<en-US>A unhealthy eating and overweight causing {0_character} problems, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GOUT_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_GOUT_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERPES_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERPES_GAIN_2</zType>
-		<English>{0_character} has itchy skin and noticing small red bumps and tiny white blisters, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} has itchy skin and noticing small red bumps and tiny white blisters, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERPES_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HERPES_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HYPOTHYROIDISM_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HYPOTHYROIDISM_GAIN_2</zType>
-		<English>{0_character} is fatigued, has an increased sensitivity to cold and {masculine_0:his:her} muscles are weak, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} is fatigued, has an increased sensitivity to cold and {masculine_0:his:her} muscles are weak, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HYPOTHYROIDISM_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HYPOTHYROIDISM_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_THROMBOSIS_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_THROMBOSIS_GAIN_2</zType>
-		<English>Pain and swelling in the limbs, {0_character} has now {1_trait}</English>
+		<en-US>Pain and swelling in the limbs, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_THROMBOSIS_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_THROMBOSIS_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BACKACHE_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BACKACHE_GAIN_2</zType>
-		<English>{0_character} feeling pain in {masculine_0:his:her} back for some time now, after {masculine_0:he:she} was working quite a lot the past few years, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} feeling pain in {masculine_0:his:her} back for some time now, after {masculine_0:he:she} was working quite a lot the past few years, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BACKACHE_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_BACKACHE_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STOMACHACHE_GAIN_1</zType>
-		<English>{0_character} has now {1_trait}.</English>
+		<en-US>{0_character} has now {1_trait}.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STOMACHACHE_GAIN_2</zType>
-		<English>{0_character} has abdominal pain and has indigestion, {0_character} has now {1_trait}</English>
+		<en-US>{0_character} has abdominal pain and has indigestion, {0_character} has now {1_trait}</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STOMACHACHE_LOSS_1</zType>
-		<English>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</English>
+		<en-US>{0_character} has no longer {1_trait}, {masculine_0:he:she} has fully recovered!</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STOMACHACHE_LOSS_2</zType>
-		<English>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</English>
+		<en-US>{0_character} has recovered from {masculine_0:his:her} malaise, and has no longer {1_trait}.</en-US>
 	</Entry>
 </Root>

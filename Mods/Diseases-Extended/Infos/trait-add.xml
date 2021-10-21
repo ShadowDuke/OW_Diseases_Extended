@@ -60,44 +60,6 @@
 			<iValue>2</iValue>	
 			<iValue>3</iValue>	
 		</aiDecadeProb>
-		<abSkipDecade>
-			<Pair>
-				<zIndex>TRAIT_SMALLPOX</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_BUBONIC_PLAGUE</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_TYPHOID</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-<!--		<Pair>								
-				<zIndex>TRAIT_INFLUENZA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->
-			<Pair>
-				<zIndex>TRAIT_LEPROSY</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_RABIES</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_PNEUMONIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_TUBERCULOSIS</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_TRACHOMA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abSkipDecade>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_SMALLPOX</zType>
@@ -157,44 +119,6 @@
 			<iValue>2</iValue>	
 			<iValue>2</iValue>	
 		</aiDecadeProb>
-		<abSkipDecade>
-			<Pair>
-				<zIndex>TRAIT_MALARIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_BUBONIC_PLAGUE</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_TYPHOID</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-<!--		<Pair>								
-				<zIndex>TRAIT_INFLUENZA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->
-<!--		<Pair>
-				<zIndex>TRAIT_LEPROSY</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->
-			<Pair>
-				<zIndex>TRAIT_RABIES</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_PNEUMONIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-<!--		<Pair>
-				<zIndex>TRAIT_TUBERCULOSIS</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->
-			<Pair>
-				<zIndex>TRAIT_TRACHOMA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abSkipDecade>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_BUBONIC_PLAGUE</zType>
@@ -258,44 +182,6 @@
 			<iValue>1</iValue>	
 			<iValue>2</iValue>	
 		</aiDecadeProb>
-		<abSkipDecade>
-			<Pair>
-				<zIndex>TRAIT_MALARIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_SMALLPOX</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_TYPHOID</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-<!--		<Pair>								
-				<zIndex>TRAIT_INFLUENZA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->
-			<Pair>
-				<zIndex>TRAIT_LEPROSY</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_RABIES</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_PNEUMONIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-<!--		<Pair>
-				<zIndex>TRAIT_TUBERCULOSIS</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->
-			<Pair>
-				<zIndex>TRAIT_TRACHOMA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abSkipDecade>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_TYPHOID</zType>
@@ -355,44 +241,6 @@
 			<iValue>1</iValue>	
 			<iValue>0</iValue>	
 		</aiDecadeProb>
-		<abSkipDecade>
-			<Pair>
-				<zIndex>TRAIT_MALARIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_SMALLPOX</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_BUBONIC_PLAGUE</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>								
-				<zIndex>TRAIT_INFLUENZA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_LEPROSY</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_RABIES</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-<!--		<Pair>
-				<zIndex>TRAIT_PNEUMONIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->
-			<Pair>
-				<zIndex>TRAIT_TUBERCULOSIS</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_TRACHOMA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abSkipDecade>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_INFLUENZA</zType>
@@ -468,44 +316,6 @@
 			<iValue>8</iValue>	
 			<iValue>8</iValue>	
 		</aiDecadeProb>
-		<abSkipDecade>
-<!--		<Pair>
-				<zIndex>TRAIT_MALARIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->
-			<Pair>
-				<zIndex>TRAIT_SMALLPOX</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-<!--		<Pair>
-				<zIndex>TRAIT_BUBONIC_PLAGUE</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->	
-<!--		<Pair>								
-				<zIndex>TRAIT_TYPHOID</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->				
-			<Pair>
-				<zIndex>TRAIT_LEPROSY</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-<!--		<Pair>
-				<zIndex>TRAIT_RABIES</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->
-<!--		<Pair>
-				<zIndex>TRAIT_PNEUMONIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->
-<!--		<Pair>
-				<zIndex>TRAIT_TUBERCULOSIS</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->
-			<Pair>
-				<zIndex>TRAIT_TRACHOMA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abSkipDecade>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_LEPROSY</zType>
@@ -565,44 +375,6 @@
 			<iValue>2</iValue>	
 			<iValue>2</iValue>	
 		</aiDecadeProb>
-		<abSkipDecade>
-			<Pair>
-				<zIndex>TRAIT_MALARIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_SMALLPOX</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_BUBONIC_PLAGUE</zIndex>
-				<bValue>1</bValue>
-			</Pair>										
-			<Pair>								
-				<zIndex>TRAIT_TYPHOID</zIndex>
-				<bValue>1</bValue>
-			</Pair>												
-<!--		<Pair>
-				<zIndex>TRAIT_INFLUENZA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									-->			
-			<Pair>
-				<zIndex>TRAIT_RABIES</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_PNEUMONIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_TUBERCULOSIS</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_TRACHOMA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abSkipDecade>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_RABIES</zType>
@@ -670,44 +442,6 @@
 			<iValue>2</iValue>	
 			<iValue>2</iValue>	
 		</aiDecadeProb>
-		<abSkipDecade>
-			<Pair>
-				<zIndex>TRAIT_MALARIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_SMALLPOX</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_BUBONIC_PLAGUE</zIndex>
-				<bValue>1</bValue>
-			</Pair>										
-			<Pair>								
-				<zIndex>TRAIT_TYPHOID</zIndex>
-				<bValue>1</bValue>
-			</Pair>												
-			<Pair>
-				<zIndex>TRAIT_INFLUENZA</zIndex>
-				<bValue>1</bValue>
-			</Pair>												
-			<Pair>
-				<zIndex>TRAIT_LEPROSY</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_PNEUMONIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_TUBERCULOSIS</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_TRACHOMA</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abSkipDecade>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_PNEUMONIA</zType>
@@ -771,44 +505,6 @@
 			<iValue>4</iValue>	
 			<iValue>5</iValue>	
 		</aiDecadeProb>
-		<abSkipDecade>
-			<Pair>
-				<zIndex>TRAIT_MALARIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_SMALLPOX</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-<!--		<Pair>
-				<zIndex>TRAIT_BUBONIC_PLAGUE</zIndex>
-				<bValue>1</bValue>
-			</Pair>										-->						
-			<Pair>								
-				<zIndex>TRAIT_TYPHOID</zIndex>
-				<bValue>1</bValue>
-			</Pair>												
-<!--		<Pair>
-				<zIndex>TRAIT_INFLUENZA</zIndex>
-				<bValue>1</bValue>
-			</Pair>										-->					
-			<Pair>
-				<zIndex>TRAIT_LEPROSY</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_RABIES</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-<!--		<Pair>
-				<zIndex>TRAIT_TUBERCULOSIS</zIndex>
-				<bValue>1</bValue>
-			</Pair>										-->		
-<!--		<Pair>
-				<zIndex>TRAIT_TRACHOMA</zIndex>
-				<bValue>1</bValue>
-			</Pair>										-->
-		</abSkipDecade>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_TUBERCULOSIS</zType>
@@ -868,44 +564,6 @@
 			<iValue>2</iValue>	
 			<iValue>1</iValue>	
 		</aiDecadeProb>
-		<abSkipDecade>
-<!--		<Pair>
-				<zIndex>TRAIT_MALARIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>										-->			
-			<Pair>
-				<zIndex>TRAIT_SMALLPOX</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-<!--		<Pair>
-				<zIndex>TRAIT_BUBONIC_PLAGUE</zIndex>
-				<bValue>1</bValue>
-			</Pair>										-->						
-			<Pair>								
-				<zIndex>TRAIT_TYPHOID</zIndex>
-				<bValue>1</bValue>
-			</Pair>												
-			<Pair>
-				<zIndex>TRAIT_INFLUENZA</zIndex>
-				<bValue>1</bValue>
-			</Pair>															
-			<Pair>
-				<zIndex>TRAIT_LEPROSY</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_RABIES</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_PNEUMONIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>												
-			<Pair>
-				<zIndex>TRAIT_TRACHOMA</zIndex>
-				<bValue>1</bValue>
-			</Pair>	
-		</abSkipDecade>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_TRACHOMA</zType>
@@ -965,44 +623,6 @@
 			<iValue>5</iValue>	
 			<iValue>5</iValue>	
 		</aiDecadeProb>
-		<abSkipDecade>
-			<Pair>
-				<zIndex>TRAIT_MALARIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>													
-			<Pair>
-				<zIndex>TRAIT_SMALLPOX</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRAIT_BUBONIC_PLAGUE</zIndex>
-				<bValue>1</bValue>
-			</Pair>																
-			<Pair>								
-				<zIndex>TRAIT_TYPHOID</zIndex>
-				<bValue>1</bValue>
-			</Pair>												
-			<Pair>
-				<zIndex>TRAIT_INFLUENZA</zIndex>
-				<bValue>1</bValue>
-			</Pair>															
-			<Pair>
-				<zIndex>TRAIT_LEPROSY</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_RABIES</zIndex>
-				<bValue>1</bValue>
-			</Pair>									
-			<Pair>
-				<zIndex>TRAIT_PNEUMONIA</zIndex>
-				<bValue>1</bValue>
-			</Pair>												
-			<Pair>
-				<zIndex>TRAIT_TUBERCULOSIS</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abSkipDecade>
 	</Entry>
 <!-- Illnesses -->	
 	<Entry>
