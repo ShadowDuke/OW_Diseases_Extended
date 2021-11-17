@@ -39,6 +39,7 @@
 
 - SEVERELY_ILL is still in the game but heavily reduced (for stories) and those stories with the trait have been reworked with the new diseases as well
 - This is set to be played on **standard difficulty**. If you want proper realistic death chances, please play with **realistic mortality**.
+- You need to re-start the game after activating this mod, because its confusing the text when enabling the first time. Mohawk is aware but dont know why this is happening. After you re-started the game, everything is fine.
 <br><br><br>
 - Compatible with all my mods
 <br><br>
