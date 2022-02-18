@@ -26,17 +26,6 @@
 		</aeRandomTrait>
 	</Entry>
 	<Entry>
-		<zType>BONUS_RUINS_STRANGE_MEDICINE_OPTION_HEAL_ILL</zType>
-		<iXPCharacter>50</iXPCharacter>
-		<aeRemoveTraits>
-			<zValue>TRAIT_MALARIA</zValue>
-			<zValue>TRAIT_SMALLPOX</zValue>
-			<zValue>TRAIT_INFLUENZA</zValue>
-			<zValue>TRAIT_TRACHOMA</zValue>
-			<zValue>TRAIT_SEVERELY_ILL</zValue>
-		</aeRemoveTraits>
-	</Entry>
-	<Entry>
 		<zType>BONUS_EVENTOPTION_TRAIT_TOO_MUCH_OF_A_GOOD_THING_OPTION_0_CHARACTER_1</zType>
 		<aeRandomTrait>
 			<zValue>TRAIT_SMALLPOX</zValue>
